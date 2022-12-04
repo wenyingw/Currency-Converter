@@ -42,3 +42,6 @@ If you are using Pipenv, then you can run:
     ├── README.md          <- a markdown file containing aurthor details (full name, student id), a description of this project, listing of all Python functions and classes and instructions for running your code 
     ├── test_api.py        <- python script for testing code from api.py
     └── test_currency.py   <- python script for testing code from currency.py
+
+
+<sub><sup>Edit on Sep 09, 2021</sup></sub>
